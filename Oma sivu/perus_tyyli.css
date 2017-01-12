@@ -1,0 +1,168 @@
+.container
+{
+/* clear: both; */
+overflow: hidden;
+margin: auto;
+width: 900px;
+border: solid black 1px;
+
+}
+
+body {
+    background: -moz-linear-gradient(center top , #745EA2 0%, #8F6098 50%, #1A1A1A 100%) repeat scroll 0 0 transparent;
+    font-family: 'Open Sans',sans-serif;
+
+
+}
+
+.levy_teksti{
+	
+padding:1px;	
+	
+	
+}
+
+
+.headeri {
+background-color: black;
+}
+
+.kommentti{
+resize:none;	
+	
+}
+
+
+.main_box {
+float:left;
+width:20%;
+/*height:550px;*/
+height:100%;
+border-right: 1px solid black;
+
+}
+
+
+.pohja {
+float:left;
+width:100%;	
+}
+
+.main_box2{
+height:100%;
+width: 79%;
+float:right;
+
+
+
+}
+
+.levy{
+border-right: 1px solid black;
+border-bottom: 1px solid black;
+border-top: 1px solid black;
+
+	
+}
+
+
+
+.viiva {
+border-bottom: 1px solid black;		
+padding-top: 12px;
+	
+}
+
+
+.linkkiteksti{
+text-decoration:none;
+font: 12px/16px Geneva,Arial,Helvetica,sans-serif;
+list-style: none outside none;
+font-size:20px;
+	
+	
+	
+}
+
+.levy_boxi{
+
+float:right;
+width:79%;
+}
+
+
+
+.toiminnot{
+padding: 1px 1px 2px;	
+}
+
+.content {
+background-image:url('kuvat/scroll.jpg');
+height:500px;
+border-top: 1px solid black;
+
+	
+}
+
+
+.viesti {
+text-align:center;
+font: 12px/16px Geneva,Arial,Helvetica,sans-serif;
+list-style: none outside none;
+font-size:20px;
+	
+	
+}
+
+.lisays {
+float:left;
+font: 12px/16px Geneva,Arial,Helvetica,sans-serif;
+list-style: none outside none;
+font-size:20px;
+padding-top: 10px;
+padding-left:8px;
+	
+}
+
+
+
+.footteri {
+height: 150px;
+
+
+
+}
+.clr {clear:both;}
+
+label {
+	width: 8em;
+	display: block;
+	float: left;
+}
+
+.pun {
+	color: blue;
+}
+
+.nimenmuutos {
+width: 4em;
+
+	
+}
+.napit{	
+float: left;	
+}
+
+.nappi1{
+float:left;	
+	
+}
+.nappi2{
+position:relative;
+left:60px;
+	
+}
+.nappi3{
+text-decoration:none;
+	
+}
